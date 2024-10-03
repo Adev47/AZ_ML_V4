@@ -2,4 +2,3 @@ MW3 UA + BLOCKER,online,1.00.01,https://raw.githubusercontent.com/avod245/727571
 ANTI SB TOOL,online,1.00.01,https://raw.githubusercontent.com/avod245/727571555672129568_cloud/main/AFKToolV1.3.exe
 MW3 LOUD CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/727571555672129568_cloud/main/ldr_HL39cTkUIG_1.exe
 MW3 SILENT CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/727571555672129568_cloud/main/Byr723V3Cq1.exe
-MW3 ZENITH CHAIR,online,1.00.02,https://raw.githubusercontent.com/avod245/727571555672129568_cloud/main/Zenith.exe
